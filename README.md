@@ -1,5 +1,7 @@
 # AIM-Fall23
 
+# This is the presentation slides for it - https://docs.google.com/presentation/d/1TmberJotHQEBKOwEvobBAdHpx6CIcuF3QDNqXlDJwho/edit#slide=id.gf61fd983f0_0_4396
+
 Activating Conda or use the Anaconda Prompt
 ```
 conda activate base
